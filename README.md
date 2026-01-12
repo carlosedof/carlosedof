@@ -1,5 +1,5 @@
 # 💫 About Me:
-Fullstack developer currently working remotely for a company based in the United States. My main focus is on Javascript (React and Node), but I also have experience in various other programming languages and frameworks.
+Fullstack developer.
 
 
 ## 🌐 Socials:
